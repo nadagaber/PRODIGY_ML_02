@@ -6,5 +6,9 @@ This repository contains code for creating a K-means clustering algorithm to gro
 
 Dataset:
 
-The dataset used for this project is obtained from Kaggle and contains information about customers' purchase history. You can download the dataset from the following link: 
+The dataset used for this project is obtained from Kaggle and contains information about customers' purchase history. 
+
+<br>
+
+source:
 https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
